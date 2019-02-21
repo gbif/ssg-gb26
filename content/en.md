@@ -8,5 +8,5 @@ imageLink: https://www.gbif.org/occurrence/1702378186
 
 # GB26 Netherland 
 
-More content to come
+More content to come once this is set up
 
