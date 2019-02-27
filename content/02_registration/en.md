@@ -7,8 +7,8 @@ imageLink: https://www.inaturalist.org/photos/7463905
 ---
 # Registration
 
-The registration is now closed. 
+The registration is not yet open. 
 
-If you have any questions concerning the registration, please contact the GBIF Secretariat at [gb25@gbif.org](mailto:gb25@gbif.org). 
+
 
 
