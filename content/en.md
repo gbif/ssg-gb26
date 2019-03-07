@@ -12,7 +12,7 @@ _<p align="center">The 26th meeting of the GBIF Governing Board and associated e
   Leiden, the Netherlands
   17-23 October 2019_</p>
   
-The Netherlands is pleased to host the 26th meeting (GB26) of the GBIF Governing Board in Leiden. 
+It is with the greatest pleasure that the Netherlands Ministry of Education, Culture and Science and the Netherlands Node of GBIF invite the Members of the GBIF Governing Board to have their 26th Governing Board Meeting at Naturalis Biodiversity Center in Leiden.
 
 The following events will take place:
 •	17-18 October 2019 – Nodes Training
@@ -22,5 +22,6 @@ The following events will take place:
 
 See the programme page for more details on the individual events. 
 
-The Governing Board meeting and associated events will take place during **biodiversity_next**. See more information at [https://biodiversitynext.org/](https://biodiversitynext.org/). 
+## Biodiversity Next
 
+This year the GBIF Governing Board meeting and associated events will take place before and during **Biodiversity Next**. Biodiversity Next is a shared initiative of GBIF, CETAF, DiSSCo, iDigBio and TDWG, giving follow-up to GBIC2. The conference takes place in Leiden at the Stadsgehoorzaal on Tuesday afternoon 22 October, Wednesday afternoon 23 October and 24-25 October. All information about the conference can be found at [biodiversitynext.org](https://biodiversitynext.org/). 
