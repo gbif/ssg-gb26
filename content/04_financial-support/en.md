@@ -1,15 +1,13 @@
 ---
 title: Financial support
 description: The GBIF Secretariat offers the possibility to apply for partial funding to attend the Governing Board meeting.
-image: /images/GB25_06.jpg
-imageTitle: Ireland by Mathew Bedworth
-imageLink: https://www.flickr.com/photos/bedworth/15240327219/in/photolist-pdJEjp-qMcrvc-dBJQPJ-Hegir-gFEToX-f5tq72-q8qfUR-911PZH-pitiLp-f3zPit-r4Bbnz-nJ945k-E5Xvx-4YUS27-pdKKi8-g5P7LH-hG1RJN-5pRhYN-dBDrrx-8io3de-pdJAS4-f3Q32s-dUfnAU-6h5Vwh-5EVnhk-sfLfww-rEzrH1-WY1Y-JbyAT1-pRGSvj-E8mXr-gTJYLm-dUfnCW-qr9RWe-pdKJK4-XFApKW-3q1ECe-Wu29T3-gJoGcd-q7NgMz-qvL538-gTKh61-f3Q2Sb-gfNmMD-5uGYsa-gmqr7E-rQXUut-pAxC4r-nNH7rA-dR8QHo
+image: /images/Fungus_small.jpg
+imageTitle: Purple mushroom with autumn leaves between the green moss, autumn scene, Amethyst Deceiver mushroom (Laccaria amethystea
+imageLink: https://www.flickr.com/photos/fotografiecor/26050537888/in/photolist-FFZPjY-8DeQMj-8QYtUe-dGQm48-dmX1en-8QYukD-3c4Xud-5WG1MS-5sVjE9-5zwurF-2ciXv9P-8H6yiw-XM69fY-5N9MeT-cQ7snY-29VMAmV-8QYsQi-qrHeF-3bZujt-aoxw3Y-mFPNu-5BGqZr-5zAK61-qrDxY-d4dMw3-8NTyRi-5zAHYw-8DeJxm-mFPpf-8R2zc3-6ddbAz-8CLT6a-5zAHGS-dq5XGq-5zwtFP-9bLY3g-2aC5LET-Z8LjaG-qU79Ho-EfqcHz-dgSmMm-5UqnNY-dqdyLH-fGaoTc-YHAYPS-6rxWG-8CgnrX-6oDC8-4BPRA9-8CjsAN
 ---
 
 # Financial support
 
-The GBIF Secretariat offers the possibility of applying for partial funding to attend the Governing Board meeting on 16-17 October 2018. Support may include partial funding of economy-class flight tickets and accommodation. 
-
-The application process is now closed. 
+More information will be added here shortly.
 
 
