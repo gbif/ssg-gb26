@@ -1,9 +1,10 @@
 ---
 title: Programme
 description: Programme the 25rd meeting of the GBIF Governing Board 
-image: /images/Naturalis_small.jpg
-imageTitle: Naturalis building in Leiden
-imageLink: 
+image: /images/Darter_small.jpg
+imageTitle: Brown Darter, Sympetrum striolatum Bruinrode heidelibel by Corine Bliek
+imageLink: https://www.flickr.com/photos/147485441@N04/36297182553/in/photolist-XisxNi-22kn82Y-29v33bw-dB6XL7-23swWJf-mZvcZW-W44Rrj-24UXGHN-24ffvWY-UGQXHT-TTWCg8-UKm5Sh-22NcUng-T1jer5-7gLpx-TSCqSh-dxfnTT-23wbZmD-jAvdnH-RnKCH9-E24sqM-pmiP7C-dwdkbx-W2DNpq-XxYCkd-TpjnB1-33tZpR-U7bfpw-216g6Rk-Uiu2mE-WwWmE8-SPawvv-SQqpeq-pqfsJU-Xbygom-23uqTAe-Tr6AXw-nQwWY8-UiiwAU-UQSaZF-2cSrGDi-27mF4Sv-pGfkEo-WzecAm-UyvC7K-TrqdJd-YtSpxB-21Tu84N-22F3aS6-JayVgU
+
 ---
 
 # Programme
@@ -16,15 +17,6 @@ imageLink:
 ## Printable PDF programme
 The printable one-page overview of GB26 will be made available shortly.  
 
-
-```styledYaml
-templates:
-- path: pdfpreview_en.html
-  pdf: "/raw/GB25_programme.pdf"
-  img: "/images/GB25_programme.jpg"
-  description: Download pdf
-```
-
 -----------------------
 
 ## Summary of events
@@ -33,7 +25,6 @@ Below is a summary of all the events associated with GB26. More information will
 
 Please note that registration is not yet open.  
 
- 
 
 -----------------------
 
