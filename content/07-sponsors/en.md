@@ -1,6 +1,7 @@
 ---
 title: Sponsors
 description: Sponsors of GB25
+draft: false
 image: /images/image6.jpg
 imageTitle: Boardwalk to infinity by Brian Wilson
 imageLink: 
