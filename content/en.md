@@ -22,6 +22,6 @@ The following events will take place:
 
 See the programme page for more details on the individual events. 
 
-### Biodiversity Next
+### biodiversity_next
 
-This year the GBIF Governing Board meeting and associated events will take place before and during **Biodiversity Next**. Biodiversity Next is a shared initiative of GBIF, CETAF, DiSSCo, iDigBio and TDWG, giving follow-up to GBIC2. The conference takes place in Leiden at the Stadsgehoorzaal on Tuesday afternoon 22 October, Wednesday afternoon 23 October and 24-25 October. All information about the conference can be found at [biodiversitynext.org](https://biodiversitynext.org/). 
+This year the GBIF Governing Board meeting and associated events will take place before and during **biodiversity_next**. biodiversity_next is a shared initiative of GBIF, CETAF, DiSSCo, iDigBio and TDWG, giving follow-up to GBIC2. The conference takes place in Leiden at the Stadsgehoorzaal on Tuesday afternoon 22 October, Wednesday afternoon 23 October and 24-25 October. All information about the conference can be found at [biodiversitynext.org](https://biodiversitynext.org/). 
