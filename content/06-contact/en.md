@@ -22,5 +22,5 @@ Phone: +45 35 32 14 70
 Darwinweg 2
 2333 CR  Leiden
 
-Contact person: Mil de Reus, email: [mil.dereus@naturalis.nl](mailto:mil.dereus@naturalis.nl)
+Contact person: [Mil de Reus](mailto:mil.dereus@naturalis.nl)
 
