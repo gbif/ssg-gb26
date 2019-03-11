@@ -22,7 +22,9 @@ Information on the meeting venues will be provided shortly.
 
 ## Hotels
 
-There are a number of hotels located in close vicinity of the GB26 event locations. The hotels are also within walking distance from the train staion Leiden Centraal (see map). 
+There are a number of hotels located in close vicinity of the GB26 event locations. The hotels are also within walking distance from the train staion Leiden Centraal. 
+
+Early booking is advised. A high demand for hotel rooms is expected as there will be another conference in Leiden in the same period.
 
 **City Resort Hotel**
 Bargelaan 180
@@ -44,9 +46,9 @@ Stationsplein 240-242
 Leiden
 [accorhotels.com/gb/hotel-8087-ibis-leiden-centre/index.shtml#origin=ibis](https://www.accorhotels.com/gb/hotel-8087-ibis-leiden-centre/index.shtml#origin=ibis)
 
-Early booking is advised. A high demand for hotel rooms is expected as there will be another conference in Leiden in the same period.
+Further hotel options are available at [hotels.com](https://hotels.com), [booking.com](https://www.booking.com) or similar services. 
 
-Hotels next to train stations in nearby towns are a good alternative. You can reach Leiden with a 10 minute train ride from:
+Please note that hotels next to train stations in nearby towns are a good alternative. You can reach Leiden with a 10 minute train ride from:
 - Van der Valk Hotel Sassenheim, [hotelsassenheim.nl/](https://www.hotelsassenheim.nl/)
 - Babylon Hotel Den Haag, [babylonhoteldenhaag.com/en/](https://www.babylonhoteldenhaag.com/en/)
 
