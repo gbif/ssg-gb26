@@ -128,7 +128,7 @@ Venue: to be confirmed
 
 -----------------------
 
-### Tuesday 23 October 2019
+### Wednesday 23 October 2019
 
 **Governing Board meeting Day 3**
 Time: 13:30-17:00
