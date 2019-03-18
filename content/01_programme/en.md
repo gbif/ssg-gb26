@@ -15,7 +15,16 @@ imageLink: https://www.flickr.com/photos/147485441@N04/36297182553/in/photolist-
 -----------------------
 
 ## Printable PDF programme
-The printable one-page overview of GB26 will be made available shortly.  
+Download a printable one-page overview of GB26 by clicking [here](/raw/GB26_programme.pdf) or by clicking on the image below.  
+
+
+```styledYaml
+templates:
+- path: pdfpreview_en.html
+  pdf: "/raw/GB26_programme.pdf"
+  img: "/images/GB26_programme.jpg"
+  description: Download pdf
+```
 
 -----------------------
 
