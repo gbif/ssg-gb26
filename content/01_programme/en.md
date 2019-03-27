@@ -125,7 +125,7 @@ Venue: to be confirmed
 
 *The meeting is open to Governing Board delegates and observers*
 
-*Please note that the session is in the afternoon. We would encourage you to attend the Biodiversity_Next in the morning. Programme for biodiversity_next can be found [here](https://biodiversitynext.org/). GB26 attendees can attend the Biodiversity_Next sessions on this day for free (you will need to show your GB26 name badge).*
+*Please note that the session is in the afternoon. We would encourage you to attend the Biodiversity_Next in the morning. Programme for Biodiversity_Next can be found [here](https://biodiversitynext.org/). GB26 attendees can attend the Biodiversity_Next sessions on this day for free (you will need to show your GB26 name badge).*
 
 -----------------------
 
@@ -137,7 +137,7 @@ Venue: to be confirmed
 
 *The meeting is open to Governing Board delegates and observers*
 
-*Please note that the session is in the afternoon. We would encourage you to attend the Biodiversity_Next in the morning. Programme for biodiversity_next can be found [here](https://biodiversitynext.org/). GB26 attendees can attend the Biodiversity_Next sessions on this day for free (you will need to show your GB26 name badge).*
+*Please note that the session is in the afternoon. We would encourage you to attend the Biodiversity_Next in the morning. Programme for Biodiversity_Next can be found [here](https://biodiversitynext.org/). GB26 attendees can attend the Biodiversity_Next sessions on this day for free (you will need to show your GB26 name badge).*
 
 
 **Executive Committee meeting 2**
