@@ -24,14 +24,14 @@ Information on the meeting venues will be provided shortly.
 
 There are a number of hotels located in close vicinity of the GB26 event locations. The hotels are also within walking distance from the train staion Leiden Centraal. 
 
-Early booking is advised. A high demand for hotel rooms is expected as there will be another conference in Leiden in the same period.
+Early booking is advised. A high demand for hotel rooms is expected in Leiden as the Biodiversity_Next conference will take place in the same period.
 
 **City Resort Hotel**
 Bargelaan 180
 2333 CW  Leiden
 [cityresorthotelleiden.nl](https://cityresorthotelleiden.nl/)
 
-A special price of €131.50 per person per nigh, including breakfast is offered when using the code **BIODIVERSITY19**. 
+A special price of €131.50 per person per nigh, including breakfast is offered when using the code ***BIODIVERSITY19***. 
 Click 'Book now', in the field 'Add code' select 'Group Attendee' and enter the code into the next field.
 
 **Tulip Inn and Golden Tulip Hotel**
@@ -46,6 +46,7 @@ Stationsplein 240-242
 Leiden
 [accorhotels.com/gb/hotel-8087-ibis-leiden-centre/index.shtml#origin=ibis](https://www.accorhotels.com/gb/hotel-8087-ibis-leiden-centre/index.shtml#origin=ibis)
 
+**Other hotels**
 Further hotel options are available at [hotels.com](https://hotels.com), [booking.com](https://www.booking.com) or similar services. 
 
 Please note that hotels next to train stations in nearby towns are a good alternative. You can reach Leiden with a 10 minute train ride from:
@@ -77,6 +78,7 @@ GB26 participants are responsible for preparing their own travel documentation r
 
 Whether or not you need a visa depends on your nationality and length of stay. For a list of countries and for information on how to apply see: [netherlandsandyou.nl/travel-and-residence/visas-for-the-netherlands](https://www.netherlandsandyou.nl/travel-and-residence/visas-for-the-netherlands)
 
+Make sure to apply for a visa well in advance of the meeting. 
 
 
 
