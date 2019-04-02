@@ -33,7 +33,9 @@ Bargelaan 180
 2333 CW  Leiden
 [cityresorthotelleiden.nl](https://cityresorthotelleiden.nl/)
 
-A special price of €131.50 per person per night, including breakfast is offered. Please contact [salesleiden@cityresort.nl](mailto:salesleiden@cityresort.nl), mentioning GB26. 
+A special price of €131.50 per person per night, including breakfast is offered. 
+
+You should book via [cityresorthotelleiden.nl](https://cityresorthotelleiden.nl/en/). Click 'Book now', then adjust the number of persons staying per room. Then click 'Add Code', select 'Rate Access/Corporate Code' and fill in 'Groups' and click 'Add'. Then click 'Add Code' again and select 'Discount Code' and fill in the code: **BIODIVERSITY19** and click 'Add'. Click 'Update Guests and Rooms', select the dates which you would like to stay and finish the reservation. 
 
 **Tulip Inn and Golden Tulip Hotel**
 Schipholweg 3
