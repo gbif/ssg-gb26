@@ -26,7 +26,13 @@ The Governing Board meeting attendees are asked to organize their own accommodat
 
 There are a number of hotels located in close vicinity of the GB26 event locations. The below hotels are also within walking distance from the train staion Leiden Centraal. 
 
-Early booking is advised. A high demand for hotel rooms is expected in Leiden as the Biodiversity_Next conference will take place in the same period.
+Early booking is advised. A high demand for hotel rooms is expected in Leiden as the [Biodiversity_Next conference](https://biodiversitynext.org/) will take place in the same period.
+
+**Tulip Inn and Golden Tulip Hotel**
+Schipholweg 3
+2316 XB  Leiden
+[tulip-inn-leiden-centre.goldentulip.com](https://tulip-inn-leiden-centre.goldentulip.com/)
+
 
 **City Resort Hotel**
 Bargelaan 180
@@ -36,12 +42,6 @@ Bargelaan 180
 A special price of €131.50 per person per night, including breakfast is offered. 
 
 You should book via [cityresorthotelleiden.nl](https://cityresorthotelleiden.nl/en/). Click 'Book now', then adjust the number of persons staying per room. Then click 'Add Code', select 'Rate Access/Corporate Code' and fill in 'Groups' and click 'Add'. Then click 'Add Code' again and select 'Discount Code' and fill in the code: **BIODIVERSITY19** and click 'Add'. Click 'Update Guests and Rooms', select the dates which you would like to stay and finish the reservation. 
-
-**Tulip Inn and Golden Tulip Hotel**
-Schipholweg 3
-2316 XB  Leiden
-[tulip-inn-leiden-centre.goldentulip.com](https://tulip-inn-leiden-centre.goldentulip.com/)
-
 
 **IBIS Hotel**
 Stationsplein 240-242
