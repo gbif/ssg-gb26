@@ -30,30 +30,28 @@ templates:
 
 ## Summary of events
 
-Below is a summary of all the events associated with GB26. More information will be added shortly. 
-
-Please note that registration is not yet open.  
+Below is a summary of all the events associated with GB26. Please read the information carefully before registering. 
 
 
 -----------------------
 
 ### Thursday 17 October 2019
 
-**Nodes Training**
+**Nodes Training Day 1**
 Time: 09:00-17:00
-Venue: to be confirmed
+Venue: Naturalis, Hall 5
 
-*The training is open to GBIF Node Managers*
+*The training is open to GBIF Node managers. If the Node manager is not able to attend, he/she may appoint an alternate to attend on his/her behalf.*
 
 -----------------------
 
 ### Friday 18 October 2019
 
-**Nodes Training**
+**Nodes Training Day 2**
 Time: 09:00-17:00
-Venue: to be confirmed
+Venue: Naturalis, Hall 5
 
-*The training is open to GBIF Node Managers*
+*The training is open to GBIF Node managers. If the Node manager is not able to attend, he/she may appoint an alternate to attend on his/her behalf.*
 
 -----------------------
 
@@ -61,9 +59,9 @@ Venue: to be confirmed
 
 **Global Nodes meeting**
 Time: 09:00-17:00
-Venue: to be confirmed
+Venue: Naturalis, Hall 5
 
-*The meeting is open to GBIF Node Managers*
+*The training is open to GBIF Node managers. If the Node manager is not able to attend, he/she may appoint an alternate to attend on his/her behalf.*
 
 -----------------------
 
@@ -71,33 +69,33 @@ Venue: to be confirmed
 
 **Budget Committee meeting**
 Time: 09:00-12:30
-Venue: to be confirmed
+Venue: City Resort Leiden
 
 *The meeting is open to members of the GBIF Budget Committee*
 
 **Nodes Steering Group meeting**
 Time: 09:00-12:30
-Venue: to be confirmed
+Venue: City Resort Leiden
 
 *The meeting is open to members of the GBIF Nodes Steering Group*
 
 **Science Committee meeting**
 Time: 09:00-12:30
-Venue: to be confirmed
+Venue: City Resort Leiden
 
 *The meeting is open to members of the GBIF Science Committee*
 
 **Executive Committee meeting 1**
 Time: 13:30-17:00
-Venue: to be confirmed
+Venue: City Resort Leiden
 
 *The meeting is open to members of the GBIF Executive Committee*
 
 **Icebreaker**
 Time: to be confirmed
-Venue: to be confirmed
+Venue: Naturalis
 
-*All Node Managers, committee members and Governing Board delegates are invited to join the Icebreaker*
+*All Node managers, committee members and Governing Board delegates are invited to join the Icebreaker*
 
 -----------------------
 
@@ -105,7 +103,7 @@ Venue: to be confirmed
 
 **Governing Board meeting Day 1**
 Time: 09:00-17:00
-Venue: to be confirmed
+Venue: Naturalis, Auditorium
 
 *The meeting is open to Governing Board delegates and invited observers*
 
@@ -121,7 +119,7 @@ Venue: to be confirmed
 
 **Governing Board meeting Day 2**
 Time: 13:30-17:00
-Venue: to be confirmed
+Venue: Naturalis, Auditorium
 
 *The meeting is open to Governing Board delegates and observers*
 
@@ -133,7 +131,7 @@ Venue: to be confirmed
 
 **Governing Board meeting Day 3**
 Time: 13:30-17:00
-Venue: to be confirmed
+Venue: Naturalis, Auditorium
 
 *The meeting is open to Governing Board delegates and observers*
 
