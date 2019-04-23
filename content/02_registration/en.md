@@ -7,8 +7,10 @@ imageLink: https://www.flickr.com/photos/ronaldc5/19987019389/in/photolist-wsbGw
 ---
 # Registration
 
-The registration is not yet open. 
+Before registering, we kindly ask you to read the requirements for registering for the various events in the 'General Terms and Conditions for the GB26 meeting'. 
 
+Please note that your registration is not considered complete until you receive a confirmation email from the GBIF Secretariat, which will list the events for which you have successfully registered. 
 
+Click [here](https://docs.google.com/forms/d/e/1FAIpQLSf_X6A4_9u7waK395HRx1xTtFjiAo4Ryh23OyRgvP-Wch9-3A/viewform) to register. 
 
-
+The registration closes on **6 October 2019**
