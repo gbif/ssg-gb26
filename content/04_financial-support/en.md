@@ -8,11 +8,11 @@ imageLink: https://www.flickr.com/photos/fotografiecor/26050537888/in/photolist-
 
 # Financial support
 
-The GBIF Secretariat offers the possibility of applying for partial funding to attend 1) Nodes Training and Global Nodes meeting on 17-19 October 2019 and/or 2) the Governing Board meeting on 21-23 October 2019. Support may include partial funding of economy-class flight tickets and accommodation. 
+The GBIF Secretariat offers the possibility of applying for partial funding to attend 1) the Nodes Training and Global Nodes meeting on 17-19 October 2019 and/or 2) the Governing Board meeting on 21-23 October 2019. Support may include partial funding of economy-class flight tickets and accommodation. 
 
 The application process is now open. 
 
-Please see below for more details on the guidelines for seeking partial funding for the two events. Link to the application form can be found at the bottom of this page. 
+Please see below for more details on the guidelines for seeking partial funding for the events. Link to the application form can be found at the bottom of this page. 
 
 Deadline for applying is **14 July 2019**. 
 
@@ -27,22 +27,22 @@ As the funds available are limited, the requests for support will be prioritized
 - Node managers from other Voting Participants and Associate Participant countries, based on their level of activity and contributions to GBIF
 - Node managers from Associate Participant organizations, based on level of activity and contribution to GBIF
 
-Support is primarily intended for Node managers. However, a Participant may alternatively request support for a different node staff member to attend the meeting in place of the Node manager. In such cases, a written confirmation of this reassignment by the Node manager must accompany the application form. 
-
 The application form (download link at the bottom of this page) must be submitted within the deadline, including teh following information: 
 
 - A draft economy class flight schedule from country of origin to the Netherlands and indication of the flight costs
 - The number of days requested for accommodation support
 - A confirmation that the attendee will be able to cover all other costs (visa, health insurance, per diem, etc.)
 
-**Please note that funding will not be provided in advance of the meeting but by reimbursement after the meeting.** 
+**Please note that funding will not be provided in advance of the meeting but by reimbursement after the meeting. If selected for funding, the GBIF Secretariat will send you the reimbursement form which must be submitted within one month after the meeting.** 
 
 
 ## Governing Board meeting, 21-23 October 2019
 
 Partial financial support for the Governing Board meeting is only available for GBIF Voting Participants representing developing countries and in good standing in regard to GBIF financial contributions. 
 
-Developing countries are defined as countries whose per capita GDP was less than USD 13,500 according to the 2013 World Bank figures, the benchmark used to apply discounted contributions in the current GBIF funding period (2017-2021). See list of developing GBIF country members here. 
+Developing countries are defined as countries whose per capita GDP was less than USD 13,500 according to the 2013 World Bank figures, the benchmark used to apply discounted contributions in the current GBIF funding period (2017-2021). See list of developing GBIF country members [here](https://gb26.gbif.org/raw/GB26_VP_developing_countries.pdf). 
+
+**Please note that funding will not be provided in advance of the meeting but by reimbursement after the meeting. If selected for funding, the GBIF Secretariat will send you the reimbursement form which must be submitted within one month after the meeting.** 
 
 
 ## Attending both Nodes events and the Governing Board meeting?
@@ -52,7 +52,7 @@ If you will attend both the Nodes events and the Governing Board meeting, you ma
 
 Do not hesitate contacting the Secretariat at [GB26@gbif.org](mailto:GB26@gbif.org) if you have any questions. 
 
-Financial application form. 
+##Download the Financial application form [here](https://gb26.gbif.org/raw/GB26_Partial_funding_form.doc)
 
 
 
