@@ -52,7 +52,7 @@ If you will attend both the Nodes events and the Governing Board meeting, you ma
 
 Do not hesitate contacting the Secretariat at [GB26@gbif.org](mailto:GB26@gbif.org) if you have any questions. 
 
-##Download the Financial application form [here](https://gb26.gbif.org/raw/GB26_Partial_funding_form.doc)
+## Download the Financial application form [here](https://gb26.gbif.org/raw/GB26_Partial_funding_form.doc)
 
 
 
