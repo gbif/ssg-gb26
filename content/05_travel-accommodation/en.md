@@ -15,7 +15,19 @@ imageLink:
 
 ## Venues
 
-Information on the meeting venues will be provided shortly. 
+**Naturalis Biodiversity Center**
+Darwinweg 2
+2333 CR Leiden
+[naturalis.nl/en](https://www.naturalis.nl/en)
+
+The Nodes Training (17-18 October 2019), the Global Nodes meeting (19 October 2019) and the official Governing Board meeting (21-23 October 2019) will take place at the new museum of Naturalis Biodiversity Center. 
+
+**City Resort Hotel**
+Bargelaan 180
+2333 CW Leiden
+[cityresorthotelleiden.nl](https://cityresorthotelleiden.nl)
+
+The GBIF committee meetings, Budget, Science and Executive Committees as well as the Nodes Steering Group, will take place on 20 October 2019 at the City Resort Hotel. 
 
 
 ---
