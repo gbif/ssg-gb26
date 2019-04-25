@@ -20,14 +20,22 @@ Darwinweg 2
 2333 CR Leiden
 [naturalis.nl/en](https://www.naturalis.nl/en)
 
-The Nodes Training (17-18 October 2019), the Global Nodes meeting (19 October 2019) and the official Governing Board meeting (21-23 October 2019) will take place at the new museum of Naturalis Biodiversity Center. 
+The following events will take place at the Naturalis Biodiversity Center:
+- Nodes Training (17-18 October 2019)
+- Global Nodes meeting (19 October 2019)
+- Official Governing Board meeting (21-23 October 2019)  
 
 **City Resort Hotel**
 Bargelaan 180
 2333 CW Leiden
 [cityresorthotelleiden.nl](https://cityresorthotelleiden.nl)
 
-The GBIF committee meetings, Budget, Science and Executive Committees as well as the Nodes Steering Group, will take place on 20 October 2019 at the City Resort Hotel. 
+The following events will take place at the City Resort Hotel on 20 October 2019:
+- Budget Committee meeting
+- Executive Committee meeting
+- Nodes Steering Group meeting
+- Science Committee meeting
+ 
 
 
 ---
@@ -108,7 +116,7 @@ Participants are advised to ensure appropriate travel insurance for travel to th
 
 ## Local transportation in Leiden
 
-Dutch public transport requires a so-called OV-chipkaart, a smart card that can be used for bus, tram, train and metro services. Since there is no specific OV-chipkaart for visitor, we recommend using either a single-use chipcard or an ‘anonymous OV-chipkaart’. The single-use chipcard has limited validity and can be used to travel on bus/tram/metro lines in a single city. If you want to travel by train, you can buy a different single-use chipcard that is valid on the train for your specified itinerary only. If you are staying in Holland for more than a few days and plan to travel by public transport more frequently, we recommend the anonymous OV-chipkaart as the best and most economic ticket for your trips since it can be used for all public means of transport in Holland. More information about getting an [ov chip kaart](https://www.holland.com/global/tourism/plan-your-holiday/getting-around-in-holland/public-transport/ov-chip-card-5.htm).
+If you wish to use public transportation in Leiden, please note that Dutch public transport requires a so-called OV-chipkaart, a smart card that can be used for bus, tram, train and metro services. Since there is no specific OV-chipkaart for visitor, we recommend using either a single-use chipcard or an ‘anonymous OV-chipkaart’. The single-use chipcard has limited validity and can be used to travel on bus/tram/metro lines in a single city. If you want to travel by train, you can buy a different single-use chipcard that is valid on the train for your specified itinerary only. If you are staying in Holland for more than a few days and plan to travel by public transport more frequently, we recommend the anonymous OV-chipkaart as the best and most economic ticket for your trips since it can be used for all public means of transport in Holland. More information about getting an [ov chip kaart](https://www.holland.com/global/tourism/plan-your-holiday/getting-around-in-holland/public-transport/ov-chip-card-5.htm).
 
 
 ---
