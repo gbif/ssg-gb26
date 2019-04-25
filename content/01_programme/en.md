@@ -61,7 +61,7 @@ Venue: Naturalis, Hall 5
 Time: 09:00-17:00
 Venue: Naturalis, Hall 5
 
-*The training is open to GBIF Node managers. If the Node manager is not able to attend, he/she may appoint an alternate to attend on his/her behalf.*
+*The Global Nodes meeting is open to GBIF Node managers. If the Node manager is not able to attend, he/she may appoint an alternate to attend on his/her behalf.*
 
 -----------------------
 
@@ -105,13 +105,13 @@ Venue: Naturalis
 Time: 09:00-17:00
 Venue: Naturalis, Auditorium
 
-*The meeting is open to Governing Board delegates and invited observers*
+*The meeting is open to Governing Board delegates, elected GBIF Chairs and Vice-chairs and invited observers*
 
 **Dinner**
 Time: to be confirmed
 Venue: to be confirmed
 
-*All Governing Board delegates and observers are invited to join the Dinner*
+*All Governing Board delegates, elected GBIF Chairs and Vice-chairs and invited observers are invited to join the Dinner*
 
 -----------------------
 
@@ -121,7 +121,7 @@ Venue: to be confirmed
 Time: 13:30-17:00
 Venue: Naturalis, Auditorium
 
-*The meeting is open to Governing Board delegates and observers*
+*The meeting is open to Governing Board delegates, elected GBIF Chairs and Vice-chairs and invited observers*
 
 *Please note that the session is in the afternoon. We would encourage you to attend the Biodiversity_Next in the morning. Programme for Biodiversity_Next can be found [here](https://biodiversitynext.org/). GB26 attendees can attend the Biodiversity_Next sessions on this day for free (you will need to show your GB26 name badge).*
 
@@ -133,7 +133,7 @@ Venue: Naturalis, Auditorium
 Time: 13:30-17:00
 Venue: Naturalis, Auditorium
 
-*The meeting is open to Governing Board delegates and observers*
+*The meeting is open to Governing Board delegates, elected GBIF Chairs and Vice-chairs and invited observers*
 
 *Please note that the session is in the afternoon. We would encourage you to attend the Biodiversity_Next in the morning. Programme for Biodiversity_Next can be found [here](https://biodiversitynext.org/). GB26 attendees can attend the Biodiversity_Next sessions on this day for free (you will need to show your GB26 name badge).*
 
