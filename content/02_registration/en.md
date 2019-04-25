@@ -7,7 +7,7 @@ imageLink: https://www.flickr.com/photos/ronaldc5/19987019389/in/photolist-wsbGw
 ---
 # Registration
 
-Before registering, we kindly ask you to read the requirements for registering for the various events in the 'General Terms and Conditions for the GB26 meeting'. 
+Before registering, we kindly ask you to read the requirements for registering for the various events in the ['General Terms and Conditions for the GB26 meeting'](https://gb26.gbif.org/raw/GB26_term.pdf). 
 
 Please note that your registration is not considered complete until you receive a confirmation email from the GBIF Secretariat, which will list the events for which you have successfully registered. 
 
