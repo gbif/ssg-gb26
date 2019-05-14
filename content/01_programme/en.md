@@ -123,7 +123,9 @@ Venue: Naturalis, Auditorium
 
 *The meeting is open to Governing Board delegates, elected GBIF Chairs and Vice-chairs and invited observers*
 
-*Please note that the session is in the afternoon. We would encourage you to attend the Biodiversity_Next in the morning. Programme for Biodiversity_Next can be found [here](https://biodiversitynext.org/). GB26 attendees can attend the Biodiversity_Next sessions on this day for free (you will need to show your GB26 name badge).*
+*Please note that the session starts at 13:30 (afternoon session). We would encourage you to attend the [Biodiversity_Next](https://biodiversitynext.org/) in the morning. GB26 attendees can attend the Biodiversity_Next sessions on this day for free (you will need to show your GB26 name badge). The Biodiversity_Next session will take place at the [Stadsgehoorzaal Breestraat 60, 2311 CS Leiden](https://www.google.nl/maps/place/Stadsgehoorzaal+Leiden/@52.1594801,4.4865065,17z/data=!3m1!4b1!4m5!3m4!1s0x47c5c6ed5eaed619:0x2c357eb707d8c249!8m2!3d52.1594801!4d4.4886952). Lunch will be available at the Stadsgehoorzaal.* 
+
+**If you attend the Biodiversity_Next in the morning, please be back at the Naturalis Biodiversity Center in time for the session start of the Governing Board meeting at 13:30. It takes approx. 15 min. to walk from the Stadsgehoorzaal to the Naturalis Biodiversity Center.**
 
 -----------------------
 
@@ -135,7 +137,9 @@ Venue: Naturalis, Auditorium
 
 *The meeting is open to Governing Board delegates, elected GBIF Chairs and Vice-chairs and invited observers*
 
-*Please note that the session is in the afternoon. We would encourage you to attend the Biodiversity_Next in the morning. Programme for Biodiversity_Next can be found [here](https://biodiversitynext.org/). GB26 attendees can attend the Biodiversity_Next sessions on this day for free (you will need to show your GB26 name badge).*
+*Please note that the session starts at 13:30 (afternoon session). We would encourage you to attend the [Biodiversity_Next](https://biodiversitynext.org/) in the morning. GB26 attendees can attend the Biodiversity_Next sessions on this day for free (you will need to show your GB26 name badge). The Biodiversity_Next session will take place at the [Stadsgehoorzaal Breestraat 60, 2311 CS Leiden](https://www.google.nl/maps/place/Stadsgehoorzaal+Leiden/@52.1594801,4.4865065,17z/data=!3m1!4b1!4m5!3m4!1s0x47c5c6ed5eaed619:0x2c357eb707d8c249!8m2!3d52.1594801!4d4.4886952). Lunch will be available at the Stadsgehoorzaal.* 
+
+**If you attend the Biodiversity_Next in the morning, please be back at the Naturalis Biodiversity Center in time for the session start of the Governing Board meeting at 13:30. It takes approx. 15 min. to walk from the Stadsgehoorzaal to the Naturalis Biodiversity Center.**
 
 
 **Executive Committee meeting 2**
