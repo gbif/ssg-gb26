@@ -46,7 +46,7 @@ The Governing Board meeting attendees are asked to organize their own accommodat
 
 There are a number of hotels located in close vicinity of the GB26 event locations. The below hotels are also within walking distance from the train staion Leiden Centraal. 
 
-Early booking is advised. A high demand for hotel rooms is expected in Leiden as the [Biodiversity_Next conference](https://biodiversitynext.org/) will take place in the same period.
+Early booking is advised. A high demand for hotel rooms is expected in Leiden as the [Biodiversity_Next conference](https://biodiversitynext.org/) and another big conference will take place in the same period.
 
 **Tulip Inn and Golden Tulip Hotel**
 Schipholweg 3
@@ -127,11 +127,11 @@ If you wish to use public transportation in Leiden, please note that Dutch publi
 ### Currency
 The Netherlands is part of the European Monetary Union. The currency is Euro (€).
 
-If you want to change your local currency into euros you can do so at Schiphol Airport.
+If you want to change your local currency into euros you can do so at Schiphol Airport or at the train station.
 
 ATMs, aka cash machines, are widely available and can be found outside most banks and at airports and most train stations. 
 
-All the major international credit cards are recognized, and most hotels and large stores accept them. But many shops, restaurants and other businesses (including Dutch Railways and supermarket chains) do not accept credit cards, including European cards with security chips.
+MasterCard and Visa cards are recognized, and most hotels and large stores accept them. But many shops, restaurants and other businesses (including Dutch Railways and supermarket chains) do not accept credit cards, including European cards with security chips.
 
 
 ### Weather
