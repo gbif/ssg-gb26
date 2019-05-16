@@ -25,7 +25,7 @@ The following events will take place at the Naturalis Biodiversity Center:
 - Global Nodes meeting (19 October 2019)
 - Official Governing Board meeting (21-23 October 2019)  
 
-**City Resort Hotel**
+**Fletcher Welness Hotel Leiden (until 1 May 2019 known as City Resort Hotel Leiden)** 
 Bargelaan 180
 2333 CW Leiden
 [cityresorthotelleiden.nl](https://cityresorthotelleiden.nl)
