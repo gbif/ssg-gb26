@@ -54,7 +54,7 @@ Schipholweg 3
 [tulip-inn-leiden-centre.goldentulip.com](https://tulip-inn-leiden-centre.goldentulip.com/)
 
 
-**City Resort Hotel**
+**Fletcher Welness Hotel Leiden (until 1 May 2019 known as City Resort Hotel Leiden)** 
 Bargelaan 180
 2333 CW  Leiden
 [cityresorthotelleiden.nl](https://cityresorthotelleiden.nl/)
