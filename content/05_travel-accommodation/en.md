@@ -51,17 +51,19 @@ Early booking is advised. A high demand for hotel rooms is expected in Leiden as
 **Tulip Inn and Golden Tulip Hotel**
 Schipholweg 3
 2316 XB  Leiden
+The Netherlands
 [tulip-inn-leiden-centre.goldentulip.com](https://tulip-inn-leiden-centre.goldentulip.com/)
 
 
 **Fletcher Welness Hotel Leiden (until 1 May 2019 known as City Resort Hotel Leiden)** 
 Bargelaan 180
 2333 CW  Leiden
-[cityresorthotelleiden.nl](https://cityresorthotelleiden.nl/)
+The Netherlands
+[www.wellnesshotelleiden.nl](https://www.wellnesshotelleiden.nl)
+[banquetsales@wellnesshotelleiden.nl](mailto:banquetsales@wellnesshotelleiden.nl)
 
 A special price of €131.50 per person per night, including breakfast is offered. 
-
-You should book via [cityresorthotelleiden.nl](https://cityresorthotelleiden.nl/en/). Click 'Book now', then adjust the number of persons staying per room. Then click 'Add Code', select 'Rate Access/Corporate Code' and fill in 'Groups' and click 'Add'. Then click 'Add Code' again and select 'Discount Code' and fill in the code: **BIODIVERSITY19** and click 'Add'. Click 'Update Guests and Rooms', select the dates which you would like to stay and finish the reservation. 
+You may book via: [www.wellnesshotelleiden.nl/en/arrangementen/gbif](https://www.wellnesshotelleiden.nl/en/arrangementen/gbif)
 
 **IBIS Hotel**
 Stationsplein 240-242
