@@ -73,9 +73,9 @@ Time: 09:00-17:00
 Venue: Naturalis, Hall 5
 
 *The goals of the Global Nodes meeting are to:*
-*1. Share recent experiences, thoughts and concerns of GBIF nodes
-*2. Define priorities by drafting a Nodes Strategy for 2020-2021
-*3. Agree on a Nodes Committee message to the Secretariat and HoDs
+*- Share recent experiences, thoughts and concerns of GBIF nodes*
+*- Define priorities by drafting a Nodes Strategy for 2020-2021*
+*- Agree on a Nodes Committee message to the Secretariat and HoDs*
 
 *The Global Nodes meeting is open to GBIF Node managers. If the Node manager is not able to attend, he/she may appoint an alternate to attend on his/her behalf.*
 
