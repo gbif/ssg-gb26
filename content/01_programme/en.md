@@ -41,6 +41,12 @@ Below is a summary of all the events associated with GB26. Please read the infor
 Time: 09:00-17:00
 Venue: Naturalis, Hall 5
 
+*The two-day global nodes training is aiming to assist all node managers in further developing their nodes, irrespective of their current level of development. Previous training programmes have focused on biodiversity data mobilization and data use for decision making. This workshop will focus on the skills that node managers need to effectively position their node in the broader institutional landscape, to identify and engage key stakeholders for their networks, to develop strategic and implementation plans that align with the GBIF strategic plan, and to organize training for their workshop that benefit from the GBIF community of practice.*
+
+*The event will have online and onsite components and both will have a strong practical approach (including a significant component of group work). The online preparation modules cover topics developed for a one-day course on node management for project teams as part of the EU- funded Biodiversity Information for Development (BID) programme. *
+
+*The official language of the workshop will be English with materials translated into French, Spanish and Portuguese. Support in these languages will also be provided onsite.*
+
 *The training is open to GBIF Node managers. If the Node manager is not able to attend, he/she may appoint an alternate to attend on his/her behalf.*
 
 -----------------------
@@ -51,6 +57,11 @@ Venue: Naturalis, Hall 5
 Time: 09:00-17:00
 Venue: Naturalis, Hall 5
 
+*The two-day global nodes training is aiming to assist all node managers in further developing their nodes, irrespective of their current level of development. Previous training programmes have focused on biodiversity data mobilization and data use for decision making. This workshop will focus on the skills that node managers need to effectively position their node in the broader institutional landscape, to identify and engage key stakeholders for their networks, to develop strategic and implementation plans that align with the GBIF strategic plan, and to organize training for their workshop that benefit from the GBIF community of practice.*
+
+*The event will have online and onsite components and both will have a strong practical approach (including a significant component of group work). The online preparation modules cover topics developed for a one-day course on node management for project teams as part of the EU- funded Biodiversity Information for Development (BID) programme. *
+
+*The official language of the workshop will be English with materials translated into French, Spanish and Portuguese. Support in these languages will also be provided onsite.*
 *The training is open to GBIF Node managers. If the Node manager is not able to attend, he/she may appoint an alternate to attend on his/her behalf.*
 
 -----------------------
@@ -60,6 +71,11 @@ Venue: Naturalis, Hall 5
 **Global Nodes meeting**
 Time: 09:00-17:00
 Venue: Naturalis, Hall 5
+
+*The goals of the Global Nodes meeting are to:*
+*1. Share recent experiences, thoughts and concerns of GBIF nodes
+*2. Define priorities by drafting a Nodes Strategy for 2020-2021
+*3. Agree on a Nodes Committee message to the Secretariat and HoDs
 
 *The Global Nodes meeting is open to GBIF Node managers. If the Node manager is not able to attend, he/she may appoint an alternate to attend on his/her behalf.*
 
