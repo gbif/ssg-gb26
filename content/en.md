@@ -19,7 +19,6 @@ The following events will take place:
 •	19 October 2019 – Global Nodes Meeting
 •	20 October 2019 – GBIF committee meetings
 •	21-23 October 2019 - Official Governing Board meeting
-•	  21-23 October 2019 - Official Governing Board meeting
 
 See the [programme page](https://gb26.gbif.org/en/programme/) for more details on the individual events. 
 
