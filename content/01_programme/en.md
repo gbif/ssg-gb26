@@ -61,7 +61,8 @@ Venue: Naturalis, Hall 5
 
 *The event will have online and onsite components and both will have a strong practical approach (including a significant component of group work). The online preparation modules cover topics developed for a one-day course on node management for project teams as part of the EU- funded Biodiversity Information for Development (BID) programme. *
 
-*The official language of the workshop will be English with materials translated into French, Spanish and Portuguese. Support in these languages will also be provided onsite.*
+*The official language of the workshop will be English with some support materials translated into French, Spanish and Portuguese. Mentors will also provide some support in these languages onsite.*
+
 *The training is open to GBIF Node managers. If the Node manager is not able to attend, he/she may appoint an alternate to attend on his/her behalf.*
 
 -----------------------
