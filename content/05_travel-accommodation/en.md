@@ -83,6 +83,12 @@ Both train stations Sassenheim and Den Haag Centraal have a direct train connect
 
 ---
 
+## Map
+
+The location of the meeting venues and some of the nearest hotels can be found in this [google map](https://drive.google.com/open?id=1aevIfC6_7zlGgUqqAJ_l4VYUTGqNoWxb&usp=sharing). 
+
+---
+
 ## Arriving in the Netherlands
 
 The Governing Board meeting attendees are asked to organize their own travel.
