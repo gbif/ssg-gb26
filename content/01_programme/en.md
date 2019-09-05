@@ -109,7 +109,7 @@ Venue: City Resort Leiden
 *The meeting is open to members of the GBIF Executive Committee*
 
 **Icebreaker**
-Time: to be confirmed
+Time: 19:00-21:00
 Venue: Naturalis
 
 *All Node managers, committee members and Governing Board delegates are invited to join the Icebreaker*
