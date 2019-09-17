@@ -22,6 +22,10 @@ The following events will take place:
 
 See the [programme page](https://gb26.gbif.org/en/programme/) for more details on the individual events. 
 
+Please check out the special offers for GB26 attendees [here](https://gb26.gbif.org/en/travel-accommodation/#special-offers-for-gb26-attendees).
+
+Remember that registration closes on **6 October 2019**
+
 ### Biodiversity_Next
 
 This year the GBIF Governing Board meeting and associated events will take place before and during **Biodiversity_Next**. Biodiversity_Next is a shared initiative of GBIF, CETAF, DiSSCo, iDigBio, TDWG and LifeWatch ERIC, giving follow-up to GBIC2. The conference takes place in Leiden at the Stadsgehoorzaal from Tuesday 22 to Friday 25 October. 
