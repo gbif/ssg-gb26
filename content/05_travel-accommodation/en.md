@@ -163,5 +163,10 @@ Leiden is twin city with: Juigalpa, Nicaragua; Krefeld, Germany; Oxford, United 
 
 More information: [visitleiden.nl](visitleiden.nl/en) and [visitleiden.nl/en/discover-leiden](visitleiden.nl/en/discover-leiden)
 
+---
+## Special offers for GB26 attendees
 
+Leiden marketing has special offers for conference delegates, the Leiden Delegate Deals, which includes discounts on canal cruises or free additional food or drinks when visiting certain restaurants. You will need to mention the Leiden Delegate Deals while making your reservation and present your conference badge on arrival to get the offer. 
+
+Please visit [www.leidenconventionbureau.nl/en/leidendelegatedeals](https://www.leidenconventionbureau.nl/en/leidendelegatedeals) for more information. 
 
