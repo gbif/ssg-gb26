@@ -146,6 +146,9 @@ In the Netherlands the standard voltage is 230 V and the frequency is 50 Hz. You
 
 The power plugs and sockets are of type C and F. 
 
+<img src="/images/Plugs_NL.jpg" title="Plugs">
+
+
 ### Weather
 The Netherlands climate is temperate maritime. The average temperature in Leiden in October is 11º C, average rain is 93 mm.
 
