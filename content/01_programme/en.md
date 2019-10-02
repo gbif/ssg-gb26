@@ -38,7 +38,7 @@ Below is a summary of all the events associated with GB26. Please read the infor
 ### Thursday 17 October 2019
 
 **Nodes Training Day 1**
-Time: 09:00-17:00
+Time: 08:45-17:00
 Venue: [Naturalis Biodiversity Center](https://www.naturalis.nl), Auditorium
 
 *The two-day global nodes training is aiming to assist all node managers in further developing their nodes, irrespective of their current level of development. Previous training programmes have focused on biodiversity data mobilization and data use for decision making. This workshop will focus on the skills that node managers need to effectively position their node in the broader institutional landscape, to identify and engage key stakeholders for their networks, to develop strategic and implementation plans that align with the GBIF strategic plan, and to organize training for their workshop that benefit from the GBIF community of practice.*
