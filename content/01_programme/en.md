@@ -39,7 +39,7 @@ Below is a summary of all the events associated with GB26. Please read the infor
 
 **Nodes Training Day 1**
 Time: 09:00-17:00
-Venue: Naturalis, Hall 5
+Venue: [Naturalis Biodiversity Center](https://www.naturalis.nl), Auditorium
 
 *The two-day global nodes training is aiming to assist all node managers in further developing their nodes, irrespective of their current level of development. Previous training programmes have focused on biodiversity data mobilization and data use for decision making. This workshop will focus on the skills that node managers need to effectively position their node in the broader institutional landscape, to identify and engage key stakeholders for their networks, to develop strategic and implementation plans that align with the GBIF strategic plan, and to organize training for their workshop that benefit from the GBIF community of practice.*
 
@@ -55,7 +55,7 @@ Venue: Naturalis, Hall 5
 
 **Nodes Training Day 2**
 Time: 09:00-17:00
-Venue: Naturalis, Hall 5
+Venue: [Naturalis Biodiversity Center](https://www.naturalis.nl), Auditorium
 
 *The two-day global nodes training is aiming to assist all node managers in further developing their nodes, irrespective of their current level of development. Previous training programmes have focused on biodiversity data mobilization and data use for decision making. This workshop will focus on the skills that node managers need to effectively position their node in the broader institutional landscape, to identify and engage key stakeholders for their networks, to develop strategic and implementation plans that align with the GBIF strategic plan, and to organize training for their workshop that benefit from the GBIF community of practice.*
 
@@ -71,7 +71,7 @@ Venue: Naturalis, Hall 5
 
 **Global Nodes meeting**
 Time: 09:00-17:00
-Venue: Naturalis, Hall 5
+Venue: [Naturalis Biodiversity Center](https://www.naturalis.nl), Auditorium
 
 *The goals of the Global Nodes meeting are to:*
 *- Share recent experiences, thoughts and concerns of GBIF nodes*
@@ -86,31 +86,31 @@ Venue: Naturalis, Hall 5
 
 **Budget Committee meeting**
 Time: 09:00-12:30
-Venue: City Resort Leiden
+Venue: Fletcher Wellness Hotel Leiden, Gerrit Dou room
 
 *The meeting is open to members of the GBIF Budget Committee*
 
 **Nodes Steering Group meeting**
 Time: 09:00-12:30
-Venue: City Resort Leiden
+Venue: Fletcher Wellness Hotel Leiden, Pieter van Slingelandt room
 
 *The meeting is open to members of the GBIF Nodes Steering Group*
 
 **Science Committee meeting**
 Time: 09:00-12:30
-Venue: City Resort Leiden
+Venue: Fletcher Wellness Hotel Leiden, Godfried Schalcken room
 
 *The meeting is open to members of the GBIF Science Committee*
 
 **Executive Committee meeting 1**
 Time: 13:30-17:00
-Venue: City Resort Leiden
+Venue: Fletcher Wellness Hotel Leiden, Gerrit Dou room
 
 *The meeting is open to members of the GBIF Executive Committee*
 
 **Icebreaker**
 Time: 19:00-21:00
-Venue: Naturalis
+Venue: Naturalis, Atrium
 
 *All Node managers, committee members and Governing Board delegates are invited to join the Icebreaker*
 
@@ -120,13 +120,13 @@ Venue: Naturalis
 
 **Governing Board meeting Day 1**
 Time: 09:00-17:00
-Venue: Naturalis, Auditorium
+Venue: [Naturalis Biodiversity Center](https://www.naturalis.nl), Auditorium
 
 *The meeting is open to Governing Board delegates, elected GBIF Chairs and Vice-chairs and invited observers*
 
 **Dinner**
 Time: to be confirmed
-Venue: to be confirmed
+Venue: [Marekerk](https://marekerk.com/)
 
 *All Governing Board delegates, elected GBIF Chairs and Vice-chairs and invited observers are invited to join the Dinner*
 
@@ -136,7 +136,7 @@ Venue: to be confirmed
 
 **Governing Board meeting Day 2**
 Time: 13:30-17:00
-Venue: Naturalis, Auditorium
+Venue: [Naturalis Biodiversity Center](https://www.naturalis.nl), Auditorium
 
 *The meeting is open to Governing Board delegates, elected GBIF Chairs and Vice-chairs and invited observers*
 
@@ -150,7 +150,7 @@ Venue: Naturalis, Auditorium
 
 **Governing Board meeting Day 3**
 Time: 13:30-17:00
-Venue: Naturalis, Auditorium
+Venue: [Naturalis Biodiversity Center](https://www.naturalis.nl), Auditorium
 
 *The meeting is open to Governing Board delegates, elected GBIF Chairs and Vice-chairs and invited observers*
 
@@ -161,7 +161,7 @@ Venue: Naturalis, Auditorium
 
 **Executive Committee meeting 2**
 Time: 17:00-19:30
-Venue: to be confirmed
+Venue: [Naturalis Biodiversity Center](https://www.naturalis.nl), Atelier room
 
 *The meeting is open to members of the GBIF Executive Committee*
 
