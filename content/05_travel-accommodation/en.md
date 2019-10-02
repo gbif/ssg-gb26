@@ -23,20 +23,26 @@ Darwinweg 2
 The following events will take place at the Naturalis Biodiversity Center:
 - Nodes Training (17-18 October 2019)
 - Global Nodes meeting (19 October 2019)
+- Icebreaker (20 October 2019)
 - Official Governing Board meeting (21-23 October 2019)  
 
-**Fletcher Welness Hotel Leiden (until 1 May 2019 known as City Resort Hotel Leiden)** 
+**Fletcher Wellness Hotel Leiden (until 1 May 2019 known as City Resort Hotel Leiden)** 
 Bargelaan 180
 2333 CW Leiden
 [cityresorthotelleiden.nl](https://cityresorthotelleiden.nl)
 
-The following events will take place at the City Resort Hotel on 20 October 2019:
+The following events will take place at the Fletcher Wellness Hotel Leiden on 20 October 2019:
 - Budget Committee meeting
 - Executive Committee meeting
 - Nodes Steering Group meeting
 - Science Committee meeting
  
+**Marekerk**
+Lange Mare 48
+2312 GS Leiden
+[marekerk.com](https://marekerk.com)
 
+The hosted dinner will take place at Marekerk on 21 October 2019. 
 
 ---
 
