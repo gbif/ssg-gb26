@@ -86,31 +86,31 @@ Venue: [Naturalis Biodiversity Center](https://www.naturalis.nl), Auditorium
 
 **Budget Committee meeting**
 Time: 09:00-12:30
-Venue: Fletcher Wellness Hotel Leiden, Gerrit Dou room
+Venue: [Fletcher Wellness Hotel Leiden](https://www.wellnesshotelleiden.nl), Gerrit Dou room
 
 *The meeting is open to members of the GBIF Budget Committee*
 
 **Nodes Steering Group meeting**
 Time: 09:00-12:30
-Venue: Fletcher Wellness Hotel Leiden, Pieter van Slingelandt room
+Venue: [Fletcher Wellness Hotel Leiden](https://www.wellnesshotelleiden.nl), Pieter van Slingelandt room
 
 *The meeting is open to members of the GBIF Nodes Steering Group*
 
 **Science Committee meeting**
 Time: 09:00-12:30
-Venue: Fletcher Wellness Hotel Leiden, Godfried Schalcken room
+Venue: [Fletcher Wellness Hotel Leiden](https://www.wellnesshotelleiden.nl), Godfried Schalcken room
 
 *The meeting is open to members of the GBIF Science Committee*
 
 **Executive Committee meeting 1**
 Time: 13:30-17:00
-Venue: Fletcher Wellness Hotel Leiden, Gerrit Dou room
+Venue: [Fletcher Wellness Hotel Leiden](https://www.wellnesshotelleiden.nl), Gerrit Dou room
 
 *The meeting is open to members of the GBIF Executive Committee*
 
 **Icebreaker**
 Time: 19:00-21:00
-Venue: Naturalis, Atrium
+Venue: [Naturalis Biodiversity Center](https://www.naturalis.nl), Atrium
 
 *All Node managers, committee members and Governing Board delegates are invited to join the Icebreaker*
 
