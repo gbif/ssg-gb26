@@ -141,6 +141,10 @@ ATMs, aka cash machines, are widely available and can be found outside most bank
 
 MasterCard and Visa cards are recognized, and most hotels and large stores accept them. But many shops, restaurants and other businesses (including Dutch Railways and supermarket chains) do not accept credit cards, including European cards with security chips.
 
+### Electricity
+In the Netherlands the standard voltage is 230 V and the frequency is 50 Hz. You can use your electric appliances in the Netherlands, if the standard voltage in your country is in between 220 - 240 V (as is in the UK, Europe, Australia and most of Asia and Africa).
+
+The power plugs and sockets are of type C and F. 
 
 ### Weather
 The Netherlands climate is temperate maritime. The average temperature in Leiden in October is 11º C, average rain is 93 mm.
