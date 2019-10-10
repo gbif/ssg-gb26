@@ -37,12 +37,12 @@ The following events will take place at the Fletcher Wellness Hotel Leiden on 20
 - Nodes Steering Group meeting
 - Science Committee meeting
  
-**Marekerk**
-Lange Mare 48
-2312 GS Leiden
-[marekerk.com](https://marekerk.com)
+**Hooglandse Kerk**
+Nieuwstraat 20
+2312 KC Leiden
+[hooglandsekerk.com/](https://hooglandsekerk.com/)
 
-The hosted dinner will take place at Marekerk on 21 October 2019. 
+The hosted dinner will take place at Hooglandse Kerk on 21 October 2019, starting at 18:30. 
 
 ---
 
