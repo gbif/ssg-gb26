@@ -22,7 +22,9 @@ The following events will take place:
 
 See the [programme page](https://gb26.gbif.org/en/programme/) for more details on the individual events. 
 
-Please check out the special offers for GB26 attendees [here](https://gb26.gbif.org/en/travel-accommodation/#special-offers-for-gb26-attendees).
+Please note that the location of the Dinner on 21 October has changed. The new location is at the Hooglandse Kirk.
+
+Check out the special offers for GB26 attendees [here](https://gb26.gbif.org/en/travel-accommodation/#special-offers-for-gb26-attendees).
 
 ### Biodiversity_Next
 
