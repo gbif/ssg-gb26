@@ -24,7 +24,7 @@ See the [programme page](https://gb26.gbif.org/en/programme/) for more details o
 
 ### Latest news
 
-Please note that the location of the Dinner on 21 October has changed. The new location is at the Hooglandse Kirk.
+Please note that the location of the Dinner on 21 October has changed. The new location is at the [Hooglandse Kirk](https://gb26.gbif.org/en/travel-accommodation/#venues).
 
 The registration for GB26 events is now closed. 
 
