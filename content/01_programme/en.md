@@ -54,7 +54,7 @@ Venue: [Naturalis Biodiversity Center](https://www.naturalis.nl), Auditorium
 ### Friday 18 October 2019
 
 **Nodes Training Day 2**
-Time: 09:00-17:00
+Time: 08:45-17:00
 Venue: [Naturalis Biodiversity Center](https://www.naturalis.nl), Auditorium
 
 *The two-day global nodes training is aiming to assist all node managers in further developing their nodes, irrespective of their current level of development. Previous training programmes have focused on biodiversity data mobilization and data use for decision making. This workshop will focus on the skills that node managers need to effectively position their node in the broader institutional landscape, to identify and engage key stakeholders for their networks, to develop strategic and implementation plans that align with the GBIF strategic plan, and to organize training for their workshop that benefit from the GBIF community of practice.*
@@ -125,8 +125,8 @@ Venue: [Naturalis Biodiversity Center](https://www.naturalis.nl), Auditorium
 *The meeting is open to Governing Board delegates, elected GBIF Chairs and Vice-chairs and invited observers*
 
 **Dinner**
-Time: to be confirmed
-Venue: [Marekerk](https://marekerk.com/)
+Time: 18:30-
+Venue: [Hooglandse Kerk](https://hooglandsekerk.com/)
 
 *All Governing Board delegates, elected GBIF Chairs and Vice-chairs and invited observers are invited to join the Dinner*
 
