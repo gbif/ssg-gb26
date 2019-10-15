@@ -92,13 +92,13 @@ Venue: [Fletcher Wellness Hotel Leiden](https://www.wellnesshotelleiden.nl), Ger
 
 **Nodes Steering Group meeting**
 Time: 09:00-12:30
-Venue: [Fletcher Wellness Hotel Leiden](https://www.wellnesshotelleiden.nl), Pieter van Slingelandt room
+Venue: [Fletcher Wellness Hotel Leiden](https://www.wellnesshotelleiden.nl), Godfried Schalcken room
 
 *The meeting is open to members of the GBIF Nodes Steering Group*
 
 **Science Committee meeting**
 Time: 09:00-12:30
-Venue: [Fletcher Wellness Hotel Leiden](https://www.wellnesshotelleiden.nl), Godfried Schalcken room
+Venue: [Fletcher Wellness Hotel Leiden](https://www.wellnesshotelleiden.nl), Pieter van Slingelandt room
 
 *The meeting is open to members of the GBIF Science Committee*
 
