@@ -16,8 +16,12 @@ The Netherlands Ministry of Education, Culture and Science and the Netherlands N
 
 The official Governing Board meeting took place on 21-23 October 2019 with representation from 27 Voting Participants, 9 Associate Country Participants, 13 Other Associate Participants and one observer country. A total of 121 persons attended the meeting. 
 
-
-ADD GROUP PHOTO
+```styledYaml
+images: 
+- title: GB26 group photo by Henk Caspers, Naturalis Biodiversity Center 
+  url: /images/GB26_group_photo_small.jpg
+  link: 
+```
 
 Prior to the Governing Board meeting the GBIF nodes met: [Global Nodes Training](https://www.gbif.org/event/3gMS4dfyGfdD4vNXFZdRIX/global-nodes-training-2019) on 17-18 October 2019 and [Global Nodes meeting](https://www.gbif.org/event/4axNmCTbNHH1ZegLOda9J3/global-nodes-meeting-2019) on 19 October 2019. 
 
