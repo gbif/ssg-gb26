@@ -10,21 +10,13 @@ imageLink: https://www.flickr.com/photos/147485441@N04/36219082540/in/photolist-
 
 ### Official Governing Board meeting, 21-23 October 2019 ###
 
-The pre-meeting documents are now available. 
+The final and approved GB26 documents will be made available shortly. 
 
-- The GB26 key documents are available for download [here](https://directory.gbif.org/documents/governing_board/GB26_2019_Leiden/GB26_Pre-meeting_documents/)
-- The GB26 background documents are available for download [here](https://directory.gbif.org/documents/governing_board/GB26_2019_Leiden/GB26_Background_documents/)
+The pre-meeting documents are still available:
+- [GB26 pre-meeting key documents](https://directory.gbif.org/documents/governing_board/GB26_2019_Leiden/GB26_Pre-meeting_documents/)
+- [GB26 pre-meeting background documents](https://directory.gbif.org/documents/governing_board/GB26_2019_Leiden/GB26_Background_documents/)
 
-Please note that documents for the Governing Board meeting are available only to official GBIF delegates and observers. You will need your email address and your GBIF documents password to access the documents. If you have problems accessing the documents or do not have a password, please contact the Secretariat at [gb26@gbif.org](mailto:gb26@gbif.org). 
+Please note that documents for the Governing Board meeting are available only to official GBIF delegates and observers. You will need your email address and your GBIF documents password to access the documents. If you have problems accessing the documents or do not have a password, please contact the Secretariat at [info@gbif.org](mailto:info@gbif.org). 
 
 
-The meeting documents for the following meetings will be made available electronically prior to the meeting:
-
-### Global Nodes meeting, 19 October 2019 ###
-
-The GBIF node managers will be notified when the documents for the Global Nodes meeting are available. 
-
-### GBIF committee meetings, 20 October 2019 ###
-
-The members of the GBIF Budget Committee, Executive Committee, Nodes Steering Group and Science Committee will be notified when the documents for the committee meetings are available. 
 
