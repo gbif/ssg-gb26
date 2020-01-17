@@ -10,11 +10,7 @@ imageLink: https://www.flickr.com/photos/147485441@N04/36219082540/in/photolist-
 
 ### Official Governing Board meeting, 21-23 October 2019 ###
 
-The final and approved GB26 documents will be made available shortly. 
-
-The pre-meeting documents are still available:
-- [GB26 pre-meeting key documents](https://directory.gbif.org/documents/governing_board/GB26_2019_Leiden/GB26_Pre-meeting_documents/)
-- [GB26 pre-meeting background documents](https://directory.gbif.org/documents/governing_board/GB26_2019_Leiden/GB26_Background_documents/)
+The final and approved GB26 documents are available from [here](https://directory.gbif.org/documents/governing_board/GB26_2019_Leiden/GB26_Final_and_approved_documents/) 
 
 Please note that documents for the Governing Board meeting are available only to official GBIF delegates and observers. You will need your email address and your GBIF documents password to access the documents. If you have problems accessing the documents or do not have a password, please contact the Secretariat at [info@gbif.org](mailto:info@gbif.org). 
 
